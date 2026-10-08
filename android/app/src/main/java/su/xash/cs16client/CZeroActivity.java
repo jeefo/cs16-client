@@ -31,7 +31,7 @@ public class CZeroActivity extends Activity {
                 .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK)
                 .putExtra("gamedir", "czero")
                 .putExtra("gamelibdir", getApplicationInfo().nativeLibraryDir)
-                .putExtra("argv", "-dev 2 -log -dll @yapb")
+                .putExtra("argv", "-dev 2 -log")
                 .putExtra("package", getPackageName()));
         finish();
     }

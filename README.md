@@ -8,7 +8,6 @@ Reverse-engineered Counter Strike 1.6 client, designed for mobile platforms and 
 
 Important contributors:
 * [a1batross](https://github.com/a1batross), initial project creator and maintainer.
-* [jeefo](https://github.com/jeefo), the creator of [YaPB](https://github.com/yapb/yapb).
 * The people behind [ReGameDLL_CS](https://github.com/rehlds/ReGameDLL_CS) project.
 * [Vladislav4KZ](https://github.com/Vladislav4KZ), bug-tester and maintainer.
 * [SNMetamorph](https://github.com/SNMetamorph), author of the PSVita port.
